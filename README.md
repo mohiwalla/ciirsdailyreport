@@ -1,4 +1,4 @@
-# CIIRS Task Report <img src="https://raw.githubusercontent.com/mohiwalla/ciirsdailyreport/mohiwalla/download.jpg" width="35" height="30">
+# CIIRS Task Report <img src="download.jpg" width="35" height="30">
 
 An automated solution for updating dates in the daily task report. Engineered to enhance our productivity 😊
 
